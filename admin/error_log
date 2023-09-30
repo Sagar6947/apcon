@@ -1,0 +1,37 @@
+[03-Mar-2021 07:51:47 UTC] PHP Warning:  unlink(images/a-guide-to-qr-codes-and-how-to-scan-qr-codes-2.png): No such file or directory in /home/exzpblvz/public_html/bhavya/admin/testimonial_del.php on line 11
+[09-Mar-2021 11:32:08 UTC] PHP Warning:  unlink(images/1534098742-5805.jpg): No such file or directory in /home/exzpblvz/public_html/bhavya/admin/gallery_del.php on line 12
+[09-Mar-2021 12:37:25 UTC] PHP Warning:  unlink(images/138.JPG): No such file or directory in /home/exzpblvz/public_html/bhavya/admin/gallery_del.php on line 12
+[13-Mar-2021 06:06:17 UTC] PHP Warning:  unlink(images/103-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[13-Mar-2021 06:33:54 UTC] PHP Warning:  unlink(images/IMG-20140407-WA0002-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[13-Mar-2021 06:34:00 UTC] PHP Warning:  unlink(images/images (18)-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[15-Mar-2021 09:32:49 UTC] PHP Warning:  unlink(images/150321093224): No such file or directory in /home/bhavyaresources/public_html/admin/clients_del.php on line 12
+[02-Apr-2021 17:52:53 UTC] PHP Warning:  unlink(images/): Is a directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[02-Apr-2021 17:54:30 UTC] PHP Warning:  unlink(images/): Is a directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[02-Apr-2021 17:54:34 UTC] PHP Warning:  unlink(images/): Is a directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[03-Apr-2021 07:09:36 UTC] PHP Warning:  unlink(images/): Is a directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 07:41:13 UTC] PHP Warning:  unlink(images/images (18)-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 09:25:32 UTC] PHP Warning:  unlink(images/Shivendra Bhai 135.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 09:26:10 UTC] PHP Warning:  unlink(images/Shivendra Bhai 110.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 15:56:08 UTC] PHP Warning:  unlink(images/Shivendra Bhai 110.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 15:56:46 UTC] PHP Warning:  unlink(images/Shivendra Bhai 098.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 15:59:11 UTC] PHP Warning:  unlink(images/Shivendra Bhai 109.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 16:10:43 UTC] PHP Warning:  unlink(images/Shivendra Bhai 110.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 16:22:46 UTC] PHP Warning:  unlink(images/Shivendra Bhai 135.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 16:23:17 UTC] PHP Warning:  unlink(images/147.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 16:25:25 UTC] PHP Warning:  unlink(images/135.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-Apr-2021 16:27:36 UTC] PHP Warning:  unlink(images/134.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[20-Apr-2021 07:54:45 UTC] PHP Warning:  unlink(images/Shivendra Bhai 109.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[20-Apr-2021 08:05:07 UTC] PHP Warning:  unlink(images/133.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[15-May-2021 12:55:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhavyaresources/public_html/new/admin/config.php on line 3
+[15-May-2021 12:55:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/bhavyaresources/public_html/new/admin/config.php on line 3
+[19-May-2021 12:51:33 UTC] PHP Warning:  unlink(images/098-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-May-2021 12:51:38 UTC] PHP Warning:  unlink(images/098-min.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[19-May-2021 12:58:36 UTC] PHP Warning:  unlink(images/survey-05.jpg): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[25-May-2021 19:17:53 UTC] PHP Warning:  unlink(images/Shivendra Bhai 225.JPG): No such file or directory in /home/bhavyaresources/public_html/admin/gallery_del.php on line 12
+[20-Jul-2021 23:00:06 America/Boise] PHP Warning:  unlink(images/layout.php): No such file or directory in /home1/webangel/public_html/clients/bhavyaresources.com/admin/gallery_del.php on line 12
+[20-Jul-2021 23:00:15 America/Boise] PHP Warning:  unlink(images/layout.php): No such file or directory in /home1/webangel/public_html/clients/bhavyaresources.com/admin/gallery_del.php on line 12
+[07-Aug-2021 11:32:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/webangel/public_html/clients/bhavyaresources.com/admin/config.php on line 3
+[07-Aug-2021 11:32:54 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home1/webangel/public_html/clients/bhavyaresources.com/admin/config.php on line 3
+[15-Aug-2021 01:41:25 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/webangel/public_html/clients/bhavyaresources.com/admin/index.php on line 11
+[16-Aug-2021 01:51:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home1/webangel/public_html/clients/bhavyaresources.com/admin/config.php on line 3
+[16-Aug-2021 01:51:28 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home1/webangel/public_html/clients/bhavyaresources.com/admin/config.php on line 3
